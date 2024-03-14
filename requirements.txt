@@ -1,0 +1,9 @@
+django
+pillow
+drf-yasg
+gunicorn
+coverage
+python-dotenv
+psycopg2-binary
+djangorestframework
+djangorestframework-simplejwt
